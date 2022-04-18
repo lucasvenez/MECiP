@@ -1,0 +1,2 @@
+from mecip.index_extractor import ProfessorIndexExtractor
+from mecip.xml_parser import process_file
